@@ -42,6 +42,7 @@
 ![class_my.png](pic%2Fclass_my.png)
 
 ## 循序圖
++ 照書中案例，沒做更改
 ![sequence.png](pic/sequence.png)
 ## 溝通圖
 這個書裡沒有現成的圖，所以參照循序圖轉成溝通圖的方法去畫，但應該高機率有問題哈哈，你們有知道怎麼改再跟我說，感謝
